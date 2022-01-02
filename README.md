@@ -1,8 +1,9 @@
 # registration_system
-Project from Programming Technique course in HCMUS by a group of student in class 20CTT3. Some feature are not available yet as well as some bugs.  
-Group:  
-Vuong Tan Phat   
-Le Minh Quan  
-Nguyen Thanh Tan  
-Le Phuoc Toan  
+- Đây là đồ án cuối kì môn Kỹ Thuật Lập Trình - Hệ thống đăng nhập và đăng kí học phần bao gồm admin và sinh viên
+- Đồ án được thực hiện bởi các bạn sau:
+  + Lê Phước Toàn
+  + Vương Tấn Phát
+  + Lê Minh Quân
+  + Nguyễn Thanh Tân
+- Đây chỉ là phần tổng kết lại đồ án nếu muốn xem chi tiết việc từng người hãy đến đường link sau đây: https://github.com/Sper-C/registration_system
 
